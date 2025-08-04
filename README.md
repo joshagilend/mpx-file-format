@@ -1,5 +1,5 @@
 # mpx-file-format
-MPX Is an open source video file format by Superaffective AI. Created by Josh Stroud
+MPX Is an open source video file format by Superaffective AI. Created by Josh Stroud, GitHub: @joshagilend :)
 
 ## MPX: MP4, Security Data JSON Blob, and Video Description Blong
 
