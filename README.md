@@ -7,7 +7,7 @@ MPX Is an open source video file format by Superaffective AI. Created by Josh St
 
 All packaged under MPX
 
-user security data JSON blob
+## user security data JSON blob
 
 file: user_security_data.json
 ```
@@ -21,11 +21,11 @@ file: user_security_data.json
 }
 ```
 
-mp4 file
+## mp4 file
 
 superaffective_ai_ad_july_26_2025.mp4
 
-video description data JSON blob
+## video description data JSON blob
 
 file: video_description.json
 
